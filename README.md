@@ -1,2 +1,2 @@
 # otimizacao-natural
-Listas de exercicio resolvidas da matéria CPE723 - Otimizacao Natural do PEE/COPEE/UFRJ
+Disciplina CPE723 - Otimizacao Natural da pos-graduacao do Programa de Engenharia Eletrica (PEE) da COPEE/UFRJ
